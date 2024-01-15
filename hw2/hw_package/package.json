@@ -1,0 +1,23 @@
+{
+    "name": "olga_date_package",
+    "version": "1.0.0",
+    "description": "Generation of random date",
+    "main": "index.js",
+    "scripts": {
+        "test": "\"start\": \"node ./index.js\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/OlgaVZhukova/Node-js-HW.git#main"
+    },
+    "keywords": [
+        "random",
+        "date"
+    ],
+    "author": "Olga Zhukova",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/OlgaVZhukova/Node-js-HW/issues"
+    },
+    "homepage": "https://github.com/OlgaVZhukova/Node-js-HW/tree/main#readme"
+}
